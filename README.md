@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-<!--
-**Kartonowy/Kartonowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 ## Hi there :wave:
 
 I'm a Computer Science student in Poland.
@@ -49,4 +31,3 @@ Technologies I know / I'm currently learning:
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/-nvim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
->>>>>>> bc863cb (initial commit)
