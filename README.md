@@ -29,5 +29,5 @@ Technologies I know / I'm currently learning:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
-![NeoVim](https://img.shields.io/badge/-nvim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
