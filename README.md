@@ -12,3 +12,5 @@ i kinda like low level and if i were to choose between c++
 and css i'd still pick c++ (rather c to be honest (zig?))
 
 even tho im learning a lot different things at CS course i learn a lot by myself, rust mostly
+
+![hacunae](https://count.getloli.com/hacunae)
