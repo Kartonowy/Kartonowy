@@ -1,16 +1,15 @@
-## hi oh :wave:
+## hiiii :wave:
 
-CS student in Polando
+student in Polando
 
-Currently rocking on Void Linux with neovim & sway wm.
+i like games and cli tools and also anime&stuff
 
-i like games and cli tools
+i have some experience in a lot of different things, when talking computer related
 
-i have some experience in a lot of different things
+i kinda like low level and just fun stuff
 
-i kinda like low level and if i were to choose between c++ 
-and css i'd still pick c++ (rather c to be honest (zig?))
+even tho im learning a lot different things at in CS classes, i learn a lot by myself, like rust, unix, shell etcetc
 
-even tho im learning a lot different things at CS course i learn a lot by myself, rust mostly
+currently rocking on arch, hyprland and nvim on main rig
 
 ![hacunae](https://count.getloli.com/@hacunae)
